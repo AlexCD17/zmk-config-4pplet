@@ -13,8 +13,5 @@
 #
 ---
 include:
-  - board: cyber60@rev_a
-  - board: cyber60@rev_b
-  - board: cyber60@rev_c
   - board: cyber60@rev_d
-  - board: cyber60@rev_e
+  
