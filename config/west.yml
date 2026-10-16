@@ -8,5 +8,6 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-caps-latch 
+      remote: AlexCD17
   self:
     path: config
