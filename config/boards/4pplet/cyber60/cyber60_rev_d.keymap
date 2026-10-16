@@ -12,7 +12,6 @@
             compatible = "zmk,behavior-key-toggle";
             #binding-cells = <1>;
             display-name = "Alps Locking Caps";
-            toggle-mode = "on"; 
         };
     };
 
