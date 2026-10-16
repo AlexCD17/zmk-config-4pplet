@@ -1,0 +1,5 @@
+description: Taps a keycode on both press and release (for latching switches)
+
+compatible: "zmk,behavior-caps-latch"
+
+include: one_param.yaml
