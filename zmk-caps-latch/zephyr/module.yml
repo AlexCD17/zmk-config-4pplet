@@ -1,0 +1,4 @@
+name: zmk-caps-latch
+cmake: .
+settings:
+  dts_root: dts
